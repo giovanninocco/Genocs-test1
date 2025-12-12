@@ -1,0 +1,7 @@
+{
+  "name": "Vouchers Assistant",
+  "description": "An assistant for Customer and Sales personnel, in a interactive sandbox for Gemini's native audio and function calling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
